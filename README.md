@@ -11,5 +11,6 @@ One of the core problems in computer vision, which is image classification. It i
 7) Build ui using HTML,CSS,javascript and JQuery
 
 # Demo Video
+![Demo](https://github.com/Kanaksahu/Real-Estate-Price-Prediction/blob/main/screen%20record/postman.gif)
 
 
