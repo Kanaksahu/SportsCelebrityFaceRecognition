@@ -1,4 +1,4 @@
-# Sports Celebrity Face recognition
+# Sports Celebrity Face Recognition
 
 One of the core problems in computer vision, which is image classification. It is defined as the task of classifying an image from a fixed set of categories. Many other computer vision challenges such as object detection and segmentation can be reduced to image classification. This is an end to end machine learning project or data science project for sports celebrity image classification. In this project, I've learnt how projects are executed in big companies ina typical corporate environment. I tried to classify an image of my favourite 5 sports people. While working on this project I learnt,
 
